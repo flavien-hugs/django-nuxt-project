@@ -9,6 +9,7 @@ djangorestframework = "*"
 djangorestframework-simplejwt = "*"
 django-environ = "*"
 django-cors-headers = "==3.13.0"
+python-dotenv = "*"
 
 [dev-packages]
 
